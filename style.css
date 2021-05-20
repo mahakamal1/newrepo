@@ -1,0 +1,101 @@
+body{
+    position: relative;
+    width: 1350px;
+    box-sizing:border-box;
+    font-family: 'Anton', sans-serif;
+}
+
+.navy{
+    padding: 0 5%;
+    align-items: center;
+}
+
+.cont{
+    text-align: center;
+}
+
+.image{
+    width: 90%;
+    height: 100vh;
+}
+
+.butt{
+    letter-spacing: 5px;
+    border-radius: 30px;
+    font-size: 1.5rem;
+    margin-top: -30px;
+    background-color: #ffdc34;
+    color: white;
+}
+.butt:hover{
+    background-color: #ffdc34;
+    border-color: #ffdc34;
+}
+
+btn-outline-warning {
+    border-color: #ffdc34;
+}
+.head-paragraph{
+    font-family: 'Anton', sans-serif;
+    color: black;
+    text-transform: uppercase;
+    background-color:rgba(255, 255, 255, .4);
+    padding: 5%;
+    margin-bottom: 15%;
+}
+
+#best-dish{
+    padding: 0 5%;
+    background-color: #ffdc34;
+    margin: 0 5%;
+}
+
+.dish{
+    text-align: center;
+    padding: 3% 0;
+}
+
+.colun{
+    padding: 15px 15px;
+    background-color: #ffdc34;
+}
+
+#reviews{
+    padding: 0 5%;
+}
+
+.asc{
+    margin-bottom: 4%;
+}
+
+.fis{
+    text-align: center;
+}
+
+#contact{
+    padding: 0 5%;
+    background-color: #ffdc34;
+}
+
+.log{
+    color: beige;
+}
+.para{
+    padding: 30px;
+}
+
+.navbar-custom {
+    padding-top: 0.375rem;
+    padding-bottom: 0.375rem;
+    background-color: #ffdc34;
+    box-shadow: 0 0.0625rem 0.375rem 0 rgb(0 0 0 / 10%);
+    font: 600 0.875rem/0.875rem "Open Sans", sans-serif;
+    transition: all 0.2s;
+}
+
+#footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    letter-spacing: .25rem;
+}
